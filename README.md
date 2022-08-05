@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="_extra.css" />
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/securityessentials/HipsterWorkshop/master/_extra.css" />
 
 # Hipster Workshop
 
