@@ -1,2 +1,11 @@
 # HipsterWorkshop
-Instructions and materials to run a the HIPSTER workshop
+
+Do you work with software developers in the Health industry? Are there important decisions to make about security and privacy? 
+
+The HIPSTER team have developed a fun and engaging workshop to help Health (especially Health IoT) development teams to benefit from wider industry knowledge about cyber security. 
+
+Anyone experienced at facilitation can lead the workshop, and we recommend inviting any of your team involved with designing and developing software, including developers, testers, designers, managers and product owners.
+
+This package contains the full materials and instructions to run the workshop either online or face-to-face.
+
+Download the latest version of the package here. TBD.
