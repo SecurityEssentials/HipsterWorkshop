@@ -1,5 +1,3 @@
-<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/securityessentials/HipsterWorkshop/master/_extra.css" />
-
 # Hipster Workshop
 
 Do you work with software developers in the Health industry? Are there important decisions to make about security and privacy? 
