@@ -8,4 +8,4 @@ Anyone experienced at facilitation can lead the workshop, and we recommend invit
 
 This package contains the full materials and instructions to run the workshop either online or face-to-face.
 
-Download the latest version of the package here. TBD.
+Download the current release of the package [here](https://github.com/SecurityEssentials/HipsterWorkshop/releases/latest/download/HipsterWorkshop.zip).
