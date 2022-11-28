@@ -1,6 +1,36 @@
 # Workshop Materials: Efficient Software Security and Privacy
 
-<button name="button" onclick="https://github.com/SecurityEssentials/HipsterWorkshop/releases/latest/download/HipsterWorkshop.zip">Click here to download the workshop materials</button>
+<!-- Styles taken from https://securedevelopment.org -->
+<button name="button" onclick="window.location.href='https://github.com/SecurityEssentials/HipsterWorkshop/releases/latest/download/HipsterWorkshop.zip'" style="    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    background-image: none;
+    border: 1px solid #2e6da4;
+    user-select: none;
+    vertical-align: middle;
+    word-wrap: break-word;
+    max-width: 100%;
+    width: auto;
+    min-width: 0;
+    box-shadow: 0 0 0 2pt white, 0 0 0 3pt #c51f30;
+    box-sizing: border-box;
+    line-height: 1.5;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px
+0;
+    padding: 10px
+20px;
+    text-align: center;
+    transition: color .2s ease-in-out;
+    text-decoration: none;
+    background-color: #c51f30;
+    color: #fff;
+    font-size: 24px;
+    border-color: rgba(0, 0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    font-family: &quot;Lato&quot;,sans-serif,&quot;google&quot;;">Click here to download the workshop materials</button>
 
 Cybersecurity is challenging for developers and product owners: we know we need it, but it costs us effort and money that we might rather use for other improvements. So, it’s vital that we make good, justifiable, decisions which security and privacy features we implement. But how should we best do this??
 
